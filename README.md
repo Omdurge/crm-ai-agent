@@ -517,7 +517,7 @@ Database migrations are not implemented. Tables are generated through SQLAlchemy
 ---
 
 # Authors
-Om Durge
+Varun Gaikwad
 
 Vishwakarma Institute of Technology, Pune
 
